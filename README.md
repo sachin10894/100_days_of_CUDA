@@ -10,9 +10,9 @@ This repo tracks the progress being made on daily basis while programming GPU Ke
 * Learning:
   1. How to organize the code: Host, Device and Global
   2. Important Functions:
-   - cudaMalloc()
-   - cudaFree()
-   - cudaMemcpy()
+    - cudaMalloc()
+    - cudaFree()
+    - cudaMemcpy()
   3. Important Terms: Thread, Block and Grid
   4. Identifier variables for Blocks and Threads: blockIdx.x, blockDim.x and threadIdx.x
 
